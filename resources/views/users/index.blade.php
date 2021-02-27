@@ -47,3 +47,8 @@
 </table>
 {!! $data->render() !!}
 @endsection
+@section('script')
+<script type="text/javascript">
+
+</script>
+@endsection
